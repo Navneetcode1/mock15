@@ -1,7 +1,31 @@
 {
   "users": [
-   
-
+    {
+      "fullName": "navneet burman",
+      "email": "navneetburman900@gmail.com",
+      "password": "Ankunavneet1",
+      "id": 1
+    },
+    {
+      "fullName": "raniraja",
+      "email": "raniraja@gmail.com",
+      "password": "rani11",
+      "id": 2
+    },
+    {
+      "fullName": "Navneet",
+      "email": "navneetburman900@gmail.com",
+      "password": "Ankunavneet1",
+      "id": 3
+    }
+  ],
+  "express": [
+    {
+      "type": "Income",
+      "category": "Gifts",
+      "amount": 300,
+      "date": "2023-05-15",
+      "id": 1
+    }
   ]
- 
 }
